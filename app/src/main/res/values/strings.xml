@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn">현재 위치</string>
+    <string name="btn2">검색</string>
+    <string name="hintText">장소 검색</string>
+    <string name="btn3">주변 신발판매점 찾기</string>
+</resources>
